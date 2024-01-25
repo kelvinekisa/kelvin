@@ -103,6 +103,7 @@ def data_scientists_who_like(target_interests):
            if user_interest == target_interests
 
     ]
+data_scientists_who_like()
 # building an index from interests to users:
 
 # keys are interests, values are lists of user_ids with that interest
